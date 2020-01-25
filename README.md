@@ -7,6 +7,12 @@ amiro001
 
 
            —————————————————— SuperRetablo AR Poster——————————————————— 
+           
+           
+           Full project description & BTS
+           http://doc.gold.ac.uk/compartsblog/index.php/work/superretablo/
+           
+           
 
 For the Final term assignment I really wanted to set myself a challenge and break the boundaries of what was expected out of Processing. I took advantage of my background in AR and  Unity to further my practice and find a way to merge Processing with interactivity and 3D graphics. 
 
