@@ -9,8 +9,16 @@ amiro001
            —————————————————— SuperRetablo AR Poster——————————————————— 
            
            
-           Full project description & BTS
+           Full project description & Behind the Scenes
            http://doc.gold.ac.uk/compartsblog/index.php/work/superretablo/
+           
+           Video of exhibition
+           https://vimeo.com/387411771
+           
+           Code Walkthrough:
+           1) https://vimeo.com/384512954
+           2) https://vimeo.com/384514245
+           
            
            
 
